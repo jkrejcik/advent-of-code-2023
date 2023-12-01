@@ -1,1 +1,1 @@
-# advent-of-code-2023
+# Solved challenges of Advent of Code 2023
